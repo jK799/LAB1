@@ -8,5 +8,5 @@ public class Shape {
         Shape shape = new Shape();
         shape.print();
     }
-
 }
+
